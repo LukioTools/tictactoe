@@ -1,0 +1,3 @@
+/home/hiha/c++/tictacto/CMakeFiles/main.dir
+/home/hiha/c++/tictacto/CMakeFiles/edit_cache.dir
+/home/hiha/c++/tictacto/CMakeFiles/rebuild_cache.dir
